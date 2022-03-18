@@ -32,4 +32,4 @@
 - Combojack (If you use headphone, try this command on Terminal: **hda-verb 0x19 0x707 0x20**)
 
 ## Credits
-Special thanks to (Lâm Tùng)[https://github.com/tunglamvghy] for making pretty much all of the EFI. This is a slightly modified version.
+Special thanks to [Lâm Tùng](https://github.com/tunglamvghy) for making pretty much all of the EFI. This is a slightly modified version.
