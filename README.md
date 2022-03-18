@@ -1,5 +1,6 @@
 # Acer Spin 5 SP513-52N-* Hackintosh
-## Mac OS X 11.6.2 Big Sur
+
+Works with Mac OS X 11.6.2 Big Sur
 
 # Specification
 | Name | Description |
