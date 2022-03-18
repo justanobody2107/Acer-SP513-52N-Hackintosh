@@ -2,7 +2,7 @@
 
 ### Works with Mac OS X 11.6.2 Big Sur
 
-# Specification
+# Laptop Specs
 | Name | Description |
 | - | - |
 | CPU | Intel Core i5-8250U @ 1.6GHz (KabyLake-R) |
@@ -30,3 +30,6 @@
 
 # KNOWN ISSUES
 - Combojack (If you use headphone, try this command on Terminal: **hda-verb 0x19 0x707 0x20**)
+
+## Credits
+Special thanks to (Lâm Tùng)[https://github.com/tunglamvghy] for making pretty much all of the EFI. This is a slightly modified version.
